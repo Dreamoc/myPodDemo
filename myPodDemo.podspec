@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "myPodDemo"
-  spec.version      = "1.1.4"
+  spec.version      = "1.1.3"
   spec.summary      = "我来测试第一个pod项目"
   spec.license      = "MIT"
   spec.description  = <<-DESC
